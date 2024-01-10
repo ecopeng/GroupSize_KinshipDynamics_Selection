@@ -19,7 +19,7 @@ This folder contains the Python script for calculating individuals' local geneti
 
 ### data
 
-The killer whale data used in the manuscript (which will be made available shortly).
+The killer whale data used in the manuscript.
 
 ---
 
